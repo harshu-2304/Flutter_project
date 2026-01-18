@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "562558908903",
+    "project_id": "superx-app-f079f",
+    "storage_bucket": "superx-app-f079f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562558908903:android:9182fc04fe27485645a542",
+        "android_client_info": {
+          "package_name": "com.example.super_x_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9FN1n_tYpU6usEs4BMk-6Tqu3skmN0rM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
